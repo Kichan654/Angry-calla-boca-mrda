@@ -1,0 +1,45 @@
+[03:39:17] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[03:39:19] [ServerMain/INFO]: No existing world data, creating new world
+[03:39:20] [ServerMain/INFO]: Loaded 1407 recipes
+[03:39:20] [ServerMain/INFO]: Loaded 1520 advancements
+[03:39:21] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[03:39:21] [Server thread/INFO]: Loading properties
+[03:39:21] [Server thread/INFO]: Default game type: SURVIVAL
+[03:39:21] [Server thread/INFO]: Generating keypair
+[03:39:21] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:39:21] [Server thread/INFO]: Using epoll channel type
+[03:39:21] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:39:21] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[03:39:21] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:39:21] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:39:21] [Server thread/INFO]: Preparing level "world"
+[03:39:36] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:39:36] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[03:39:37] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[03:39:37] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[03:39:37] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[03:39:38] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[03:39:38] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[03:39:39] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[03:39:40] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[03:39:40] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[03:39:40] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[03:39:41] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[03:39:41] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[03:39:42] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[03:39:43] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[03:39:43] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[03:39:43] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[03:39:44] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[03:39:44] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[03:39:45] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[03:39:45] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[03:39:46] [Worker-Main-1/INFO]: Preparing spawn area: 30%
+[03:39:46] [Server thread/INFO]: Time elapsed: 10079 ms
+[03:39:46] [Server thread/INFO]: Done (24.993s)! For help, type "help"
+[03:40:46] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[03:47:27] [Server thread/INFO]: Kichan654[/100.105.19.14:65214] logged in with entity id 74 at (-27.5, 70.0, -9.5)
+[03:47:27] [Server thread/INFO]: Kichan654 joined the game
+[03:47:53] [Server thread/INFO]: Made Kichan654 a server operator
+[03:47:57] [Server thread/INFO]: [Kichan654: Set own game mode to Creative Mode]
+[03:48:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2227ms or 44 ticks behind
