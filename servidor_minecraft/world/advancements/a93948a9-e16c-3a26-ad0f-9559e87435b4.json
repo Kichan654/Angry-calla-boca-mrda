@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-07-28 04:39:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-07-28 03:45:32 +0000"
@@ -317,6 +323,12 @@
       "has_planks": "2025-07-28 03:42:07 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:chicken": "2025-07-28 04:40:34 +0000"
+    },
+    "done": false
   },
   "minecraft:story/mine_stone": {
     "criteria": {
@@ -768,7 +780,9 @@
     "criteria": {
       "cooked_porkchop": "2025-07-28 03:58:45 +0000",
       "bread": "2025-07-28 04:31:35 +0000",
-      "sweet_berries": "2025-07-28 03:45:55 +0000"
+      "potato": "2025-07-28 04:45:50 +0000",
+      "sweet_berries": "2025-07-28 03:45:55 +0000",
+      "baked_potato": "2025-07-28 04:48:43 +0000"
     },
     "done": false
   },
@@ -961,6 +975,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-07-28 03:41:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-07-28 04:40:34 +0000"
     },
     "done": true
   },
