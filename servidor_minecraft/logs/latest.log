@@ -47,3 +47,10 @@
 [03:22:27] [Server thread/WARN]: Oak Boat (vehicle of PalomoSauri0) moved too quickly! 10.686059647144702,0.0,4.511050821582444
 [03:22:27] [Server thread/WARN]: Oak Boat (vehicle of PalomoSauri0) moved too quickly! 11.054648544108716,0.0,4.6663739870120935
 [03:23:59] [Server thread/INFO]: The difficulty has been set to Hard
+[03:32:58] [Server thread/INFO]: PalomoSauri0 lost connection: Timed out
+[03:32:58] [Server thread/INFO]: PalomoSauri0 left the game
+[03:32:58] [Server thread/WARN]: handleDisconnection() called twice
+[03:33:12] [Server thread/INFO]: PalomoSauri0[/100.113.75.37:58300] logged in with entity id 7370 at (219.31433367497388, 63.0, 816.7915809117646)
+[03:33:12] [Server thread/INFO]: PalomoSauri0 joined the game
+[03:35:59] [Server thread/INFO]: PalomoSauri0 has made the advancement [Sweet Dreams]
+[03:37:17] [Server thread/INFO]: PalomoSauri0 has made the advancement [What a Deal!]
