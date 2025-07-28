@@ -1838,6 +1838,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-07-28 04:38:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/gray_harness": {
     "criteria": {
       "has_dried_ghast": "2025-07-28 04:06:31 +0000"
@@ -1881,6 +1887,12 @@
       "minecraft:warped_forest": "2025-07-28 04:00:49 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_sword": "2025-07-28 04:38:41 +0000"
+    },
+    "done": true
   },
   "minecraft:nether/root": {
     "criteria": {
@@ -1930,6 +1942,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_sword": "2025-07-28 04:38:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/light_blue_harness": {
     "criteria": {
       "has_dried_ghast": "2025-07-28 04:06:31 +0000"
@@ -1963,6 +1981,12 @@
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2025-07-28 03:46:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-07-28 04:31:54 +0000"
     },
     "done": true
   },
