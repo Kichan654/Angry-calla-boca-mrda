@@ -486,6 +486,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-07-26 04:33:19 +0000",
+      "golden_apple": "2025-07-28 05:12:43 +0000",
       "cooked_mutton": "2025-07-28 04:09:31 +0000",
       "cooked_beef": "2025-07-26 04:27:13 +0000",
       "golden_carrot": "2025-07-28 04:31:59 +0000"
@@ -1548,6 +1549,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-28 05:04:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/black_harness": {
     "criteria": {
       "has_dried_ghast": "2025-07-28 04:45:19 +0000"
@@ -1719,6 +1726,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-28 05:04:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
       "has_stone": "2025-07-28 04:01:18 +0000"
@@ -1761,6 +1774,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-28 05:04:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_soul_sand": "2025-07-28 04:51:58 +0000"
@@ -1770,6 +1789,12 @@
   "minecraft:recipes/building_blocks/warped_slab": {
     "criteria": {
       "has_planks": "2025-07-28 04:33:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-28 05:04:03 +0000"
     },
     "done": true
   },
@@ -1863,6 +1888,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-28 05:04:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/red_harness": {
     "criteria": {
       "has_dried_ghast": "2025-07-28 04:45:19 +0000"
@@ -1893,6 +1924,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-28 05:04:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_glowstone_dust": "2025-07-28 04:15:32 +0000"
@@ -1914,6 +1951,12 @@
   "minecraft:recipes/building_blocks/warped_planks": {
     "criteria": {
       "has_logs": "2025-07-28 04:33:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-28 05:04:03 +0000"
     },
     "done": true
   },
@@ -1962,6 +2005,12 @@
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_stone": "2025-07-28 04:01:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-28 05:04:03 +0000"
     },
     "done": true
   },
@@ -2118,6 +2167,12 @@
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_quartz": "2025-07-28 04:26:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-28 05:04:03 +0000"
     },
     "done": true
   },
