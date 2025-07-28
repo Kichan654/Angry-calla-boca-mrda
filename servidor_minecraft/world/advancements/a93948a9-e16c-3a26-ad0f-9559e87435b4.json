@@ -528,6 +528,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-07-28 05:28:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_sand": "2025-07-28 05:18:10 +0000"
@@ -543,6 +549,12 @@
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2025-07-28 04:51:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-07-28 05:28:43 +0000"
     },
     "done": true
   },
@@ -603,6 +615,12 @@
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-07-28 03:42:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-07-28 05:28:43 +0000"
     },
     "done": true
   },
@@ -846,10 +864,18 @@
       "minecraft:skeleton": "2025-07-28 03:51:44 +0000",
       "minecraft:piglin": "2025-07-28 04:06:54 +0000",
       "minecraft:phantom": "2025-07-28 04:08:51 +0000",
+      "minecraft:witch": "2025-07-28 05:28:41 +0000",
+      "minecraft:spider": "2025-07-28 05:22:41 +0000",
       "minecraft:zombie": "2025-07-28 04:21:04 +0000",
       "minecraft:creeper": "2025-07-28 05:18:34 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-07-28 05:28:43 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/chain": {
     "criteria": {
@@ -941,6 +967,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-07-28 05:28:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/green_harness": {
     "criteria": {
       "has_dried_ghast": "2025-07-28 04:12:49 +0000"
@@ -956,6 +988,12 @@
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-07-28 04:31:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-07-28 05:27:49 +0000"
     },
     "done": true
   },
@@ -1109,6 +1147,7 @@
       "potato": "2025-07-28 04:45:50 +0000",
       "sweet_berries": "2025-07-28 03:45:55 +0000",
       "cooked_beef": "2025-07-28 05:10:12 +0000",
+      "cod": "2025-07-28 05:27:15 +0000",
       "baked_potato": "2025-07-28 04:48:43 +0000"
     },
     "done": false
@@ -1122,6 +1161,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2025-07-28 03:44:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-07-28 05:28:43 +0000"
     },
     "done": true
   },
@@ -1185,6 +1230,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2025-07-28 05:28:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/saddle": {
     "criteria": {
       "has_leather": "2025-07-28 04:51:51 +0000"
@@ -1224,6 +1275,12 @@
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2025-07-28 03:46:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-07-28 05:28:43 +0000"
     },
     "done": true
   },
@@ -1347,6 +1404,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-07-28 05:28:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2025-07-28 03:42:07 +0000"
@@ -1398,6 +1461,12 @@
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2025-07-28 04:40:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-07-28 05:28:43 +0000"
     },
     "done": true
   },
