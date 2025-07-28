@@ -155,6 +155,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-07-26 05:44:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-26 04:46:28 +0000"
@@ -227,6 +233,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-07-26 05:42:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_copper_block": {
     "criteria": {
       "has_raw_copper": "2025-07-26 04:34:28 +0000"
@@ -292,6 +304,12 @@
       "has_iron_ingot": "2025-07-26 04:28:44 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/whole_pack": {
+    "criteria": {
+      "minecraft:pale": "2025-07-26 05:42:36 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
@@ -587,6 +605,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-07-26 05:44:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2025-07-26 04:24:22 +0000"
@@ -728,6 +752,12 @@
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2025-07-26 04:23:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-07-26 05:21:04 +0000"
     },
     "done": true
   },
@@ -1039,6 +1069,7 @@
     "criteria": {
       "minecraft:beach": "2025-07-26 04:19:55 +0000",
       "minecraft:forest": "2025-07-26 04:20:03 +0000",
+      "minecraft:taiga": "2025-07-26 05:34:20 +0000",
       "minecraft:river": "2025-07-26 04:27:59 +0000",
       "minecraft:plains": "2025-07-26 04:24:28 +0000"
     },
@@ -1137,6 +1168,12 @@
   "minecraft:recipes/building_blocks/tuff_slab_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-07-26 04:45:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2025-07-26 05:44:51 +0000"
     },
     "done": true
   },

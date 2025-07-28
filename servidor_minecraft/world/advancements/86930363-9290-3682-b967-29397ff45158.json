@@ -195,6 +195,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-07-26 05:25:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-26 05:00:31 +0000"
@@ -240,6 +246,12 @@
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-07-26 04:30:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-07-26 05:26:46 +0000"
     },
     "done": true
   },
@@ -441,6 +453,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-07-26 05:25:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-07-26 05:25:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2025-07-26 04:22:23 +0000"
@@ -510,6 +534,12 @@
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-07-26 04:35:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-07-26 05:25:03 +0000"
     },
     "done": true
   },
@@ -603,6 +633,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-07-26 05:25:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2025-07-26 04:22:23 +0000"
@@ -660,6 +696,12 @@
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2025-07-26 04:21:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-07-26 05:33:18 +0000"
     },
     "done": true
   },
@@ -801,6 +843,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-07-26 05:25:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-07-26 04:50:51 +0000",
@@ -830,6 +878,12 @@
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2025-07-26 04:21:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-07-26 05:26:46 +0000"
     },
     "done": true
   },
@@ -905,6 +959,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-07-26 05:26:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-07-26 04:35:43 +0000"
@@ -971,6 +1031,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-07-26 05:25:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-07-26 04:22:46 +0000"
@@ -1015,11 +1081,14 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "mutton": "2025-07-26 05:23:14 +0000",
       "apple": "2025-07-26 04:50:56 +0000",
       "bread": "2025-07-26 04:49:45 +0000",
       "cooked_chicken": "2025-07-26 05:01:21 +0000",
       "cooked_mutton": "2025-07-26 05:00:05 +0000",
-      "cooked_beef": "2025-07-26 04:32:44 +0000"
+      "cooked_beef": "2025-07-26 04:32:44 +0000",
+      "beef": "2025-07-26 05:24:34 +0000",
+      "porkchop": "2025-07-26 05:29:37 +0000"
     },
     "done": false
   },
@@ -1101,6 +1170,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-07-26 05:25:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-07-26 05:25:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-26 05:00:31 +0000"
@@ -1116,6 +1197,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-07-26 04:47:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-07-26 05:25:03 +0000"
     },
     "done": true
   },
@@ -1140,6 +1227,12 @@
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-07-26 04:37:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-07-26 05:25:03 +0000"
     },
     "done": true
   },
@@ -1236,6 +1329,12 @@
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2025-07-26 04:31:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-07-26 05:25:03 +0000"
     },
     "done": true
   },
