@@ -296,6 +296,7 @@
       "cooked_porkchop": "2025-07-26 04:26:27 +0000",
       "bread": "2025-07-26 05:04:46 +0000",
       "cooked_chicken": "2025-07-26 04:24:44 +0000",
+      "rotten_flesh": "2025-07-28 04:15:08 +0000",
       "cooked_mutton": "2025-07-26 04:34:00 +0000",
       "cooked_beef": "2025-07-26 04:35:14 +0000"
     },
@@ -1819,6 +1820,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-07-28 04:17:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2025-07-28 04:02:20 +0000"
@@ -1834,6 +1841,18 @@
   "minecraft:recipes/combat/gray_harness": {
     "criteria": {
       "has_dried_ghast": "2025-07-28 04:06:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/place_dried_ghast_in_water": {
+    "criteria": {
+      "place_dried_ghast_in_water": "2025-07-28 04:12:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-07-28 04:16:53 +0000"
     },
     "done": true
   },
@@ -1905,6 +1924,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-07-28 04:16:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/light_blue_harness": {
     "criteria": {
       "has_dried_ghast": "2025-07-28 04:06:31 +0000"
@@ -1962,6 +1987,12 @@
   "minecraft:recipes/combat/green_harness": {
     "criteria": {
       "has_dried_ghast": "2025-07-28 04:06:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-07-28 04:16:53 +0000"
     },
     "done": true
   },

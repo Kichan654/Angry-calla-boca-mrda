@@ -524,6 +524,7 @@
       "cooked_chicken": "2025-07-26 05:01:21 +0000",
       "rotten_flesh": "2025-07-28 03:14:46 +0000",
       "cooked_mutton": "2025-07-26 05:00:05 +0000",
+      "potato": "2025-07-28 04:13:59 +0000",
       "cooked_beef": "2025-07-26 04:32:44 +0000",
       "beef": "2025-07-26 05:24:34 +0000",
       "porkchop": "2025-07-26 05:29:37 +0000",
@@ -1699,6 +1700,18 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-07-28 04:25:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-07-28 04:16:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2025-07-28 03:35:40 +0000"
@@ -1720,6 +1733,12 @@
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2025-07-28 03:53:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2025-07-28 04:19:31 +0000"
     },
     "done": true
   },
@@ -1747,6 +1766,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/suspicious_stew_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-07-28 04:26:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2025-07-28 03:53:27 +0000"
@@ -1768,6 +1793,12 @@
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2025-07-28 03:53:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-07-28 04:26:55 +0000"
     },
     "done": true
   },
@@ -1819,6 +1850,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-07-28 04:22:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_brown_mushroom": "2025-07-28 03:35:41 +0000"
@@ -1828,6 +1865,12 @@
   "minecraft:recipes/building_blocks/smooth_stone_slab": {
     "criteria": {
       "has_smooth_stone": "2025-07-28 03:53:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-07-28 04:25:29 +0000"
     },
     "done": true
   },
