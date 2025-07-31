@@ -488,6 +488,7 @@
     "criteria": {
       "cooked_porkchop": "2025-07-28 03:58:45 +0000",
       "bread": "2025-07-28 04:31:35 +0000",
+      "cooked_mutton": "2025-07-31 02:09:53 +0000",
       "potato": "2025-07-28 04:45:50 +0000",
       "sweet_berries": "2025-07-28 03:45:55 +0000",
       "cooked_beef": "2025-07-28 05:10:12 +0000",
@@ -1515,6 +1516,12 @@
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-31 02:01:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_the_recipe": "2025-07-31 02:09:50 +0000"
     },
     "done": true
   },
