@@ -1,108 +1,36 @@
-[01:55:50] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[01:55:54] [ServerMain/INFO]: Loaded 1407 recipes
-[01:55:54] [ServerMain/INFO]: Loaded 1520 advancements
-[01:55:54] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[01:55:54] [Server thread/INFO]: Loading properties
-[01:55:54] [Server thread/INFO]: Default game type: SURVIVAL
-[01:55:54] [Server thread/INFO]: Generating keypair
-[01:55:54] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:55:54] [Server thread/INFO]: Using epoll channel type
-[01:55:54] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:55:55] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:55:55] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:55:55] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:55:55] [Server thread/INFO]: Preparing level "world"
-[01:55:55] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:56:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:56:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:56:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:56:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:56:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:56:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:56:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:56:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:56:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:56:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:56:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:56:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:56:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:56:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:56:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:56:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:56:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:56:04] [Server thread/INFO]: Time elapsed: 8548 ms
-[01:56:04] [Server thread/INFO]: Done (9.018s)! For help, type "help"
-[01:57:03] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[01:59:33] [Server thread/INFO]: Solaangeee[/100.105.3.43:52467] logged in with entity id 26 at (261.14747213812433, 85.0, 604.9075244644214)
-[01:59:33] [Server thread/INFO]: Solaangeee joined the game
-[02:03:25] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=237, y=69, z=837} jb{x=238, y=67, z=839}
-[02:15:49] [Server thread/INFO]: Kichan654[/100.105.19.14:56033] logged in with entity id 3013 at (209.52909919040525, 63.0, 804.5875131081215)
-[02:15:49] [Server thread/INFO]: Kichan654 joined the game
-[02:16:49] [Server thread/INFO]: [Not Secure] <Solaangeee> :v
-[02:16:53] [Server thread/INFO]: [Not Secure] <Kichan654> :v
-[02:18:40] [Server thread/INFO]: [Not Secure] <Solaangeee> voy a cocinarme xd
-[02:18:46] [Server thread/INFO]: [Not Secure] <Solaangeee> que sino aqui en mi casa no comen
-[02:18:48] [Server thread/INFO]: [Not Secure] <Solaangeee> y los demas?
-[02:18:54] [Server thread/INFO]: [Not Secure] <Kichan654> tan en coop
-[02:18:58] [Server thread/INFO]: [Not Secure] <Kichan654> brutal +6
-[02:18:59] [Server thread/INFO]: [Not Secure] <Kichan654> :v
-[02:19:04] [Server thread/INFO]: [Not Secure] <Solaangeee> con microtransaciones
-[02:19:07] [Server thread/INFO]: [Not Secure] <Solaangeee> pss termino y vuelvo papu
-[02:19:10] [Server thread/INFO]: [Not Secure] <Kichan654> ta bn
-[02:19:11] [Server thread/INFO]: [Not Secure] <Solaangeee> hoy
-[02:19:14] [Server thread/INFO]: [Not Secure] <Solaangeee> de hecho
-[02:19:18] [Server thread/INFO]: [Not Secure] <Solaangeee> angry tiene q terminar la granja de hierro
-[02:19:26] [Server thread/INFO]: [Not Secure] <Kichan654> ese csv :v
-[02:19:30] [Server thread/INFO]: [Not Secure] <Kichan654> ya entra
-[02:19:30] [Server thread/INFO]: [Not Secure] <Solaangeee> wtf
-[02:19:34] [Server thread/INFO]: [Not Secure] <Solaangeee> porqe tanto
-[02:19:52] [Server thread/INFO]: [Not Secure] <Kichan654> ptmre
-[02:19:54] [Server thread/INFO]: [Not Secure] <Kichan654> mmarch
-[02:19:55] [Server thread/INFO]: [Not Secure] <Solaangeee> qe carajos
-[02:19:56] [Server thread/INFO]: [Not Secure] <Solaangeee> que mierda
-[02:19:57] [Server thread/INFO]: Solaangeee lost connection: Disconnected
-[02:19:57] [Server thread/INFO]: Solaangeee left the game
-[02:21:54] [Server thread/INFO]: Tachibana[/100.70.57.48:50240] logged in with entity id 3975 at (-38.5, 69.0, -3.5)
-[02:21:54] [Server thread/INFO]: Tachibana joined the game
-[02:22:05] [Server thread/INFO]: [Kichan654: Set own game mode to Creative Mode]
-[02:22:08] [Server thread/INFO]: [Kichan654: Set own game mode to Survival Mode]
-[02:22:12] [Server thread/INFO]: [Kichan654: Teleported Tachibana to Kichan654]
-[02:24:14] [Server thread/INFO]: Tachibana has made the advancement [Acquire Hardware]
-[02:25:03] [Server thread/INFO]: [Kichan654: Set own game mode to Creative Mode]
-[02:26:00] [Server thread/INFO]: [Kichan654: Set own game mode to Survival Mode]
-[02:29:15] [Server thread/INFO]: Tachibana has made the advancement [Stone Age]
-[02:30:01] [Server thread/INFO]: Tachibana has made the advancement [Getting an Upgrade]
-[02:39:59] [Server thread/INFO]: Tachibana has made the advancement [Isn't It Iron Pick]
-[02:40:14] [Server thread/INFO]: Tachibana has made the advancement [Suit Up]
-[02:42:13] [Server thread/INFO]: Tachibana lost connection: Disconnected
-[02:42:13] [Server thread/INFO]: Tachibana left the game
-[02:44:05] [Server thread/INFO]: Akexs[/100.85.10.22:53555] logged in with entity id 7902 at (-37.5, 67.0, -9.5)
-[02:44:05] [Server thread/INFO]: Akexs joined the game
-[02:44:15] [Server thread/INFO]: [Not Secure] <Akexs> Kichan coño sucio
-[02:45:26] [Server thread/INFO]: [Kichan654: Teleported Akexs to Kichan654]
-[02:45:49] [Server thread/INFO]: Akexs has made the advancement [Stone Age]
-[02:47:34] [Server thread/INFO]: Akexs lost connection: Disconnected
-[02:47:34] [Server thread/INFO]: Akexs left the game
-[02:57:20] [Server thread/INFO]: Akexs[/100.85.10.22:55715] logged in with entity id 11284 at (218.25599812490853, 70.0, 762.9253582253389)
-[02:57:20] [Server thread/INFO]: Akexs joined the game
-[03:00:07] [Server thread/INFO]: Akexs lost connection: Disconnected
-[03:00:07] [Server thread/INFO]: Akexs left the game
-[03:06:44] [Server thread/INFO]: Akexs[/100.85.10.22:56194] logged in with entity id 13253 at (184.44085104922084, 70.0, 742.338628182995)
-[03:06:44] [Server thread/INFO]: Akexs joined the game
-[03:13:39] [Server thread/INFO]: [Kichan654: Teleported Akexs to Kichan654]
-[03:14:15] [Server thread/INFO]: Akexs has made the advancement [Acquire Hardware]
-[03:15:23] [Server thread/INFO]: Akexs has made the advancement [Isn't It Iron Pick]
-[03:18:04] [Server thread/INFO]: Akexs has made the advancement [Sweet Dreams]
-[03:19:39] [Server thread/INFO]: Akexs lost connection: Disconnected
-[03:19:39] [Server thread/INFO]: Akexs left the game
-[03:22:50] [Server thread/INFO]: Akexs[/100.85.10.22:57349] logged in with entity id 16265 at (217.7016486482035, 64.0, 814.5253383829404)
-[03:22:50] [Server thread/INFO]: Akexs joined the game
-[03:29:26] [Server thread/INFO]: Akexs has made the advancement [Monster Hunter]
-[03:30:22] [Server thread/INFO]: Akexs has made the advancement [Not Today, Thank You]
-[03:38:28] [Server thread/INFO]: Kichan654 lost connection: Disconnected
-[03:38:28] [Server thread/INFO]: Kichan654 left the game
-[03:42:01] [Server thread/INFO]: Kichan654[/100.105.19.14:58231] logged in with entity id 21542 at (227.32440040419917, 63.0, 814.4210017506072)
-[03:42:01] [Server thread/INFO]: Kichan654 joined the game
-[03:42:07] [Server thread/INFO]: [Kichan654: Teleported Akexs to Kichan654]
-[03:42:13] [Server thread/INFO]: Kichan654 lost connection: Disconnected
-[03:42:13] [Server thread/INFO]: Kichan654 left the game
+[01:42:20] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01:42:24] [ServerMain/INFO]: Loaded 1407 recipes
+[01:42:24] [ServerMain/INFO]: Loaded 1520 advancements
+[01:42:24] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[01:42:24] [Server thread/INFO]: Loading properties
+[01:42:24] [Server thread/INFO]: Default game type: SURVIVAL
+[01:42:24] [Server thread/INFO]: Generating keypair
+[01:42:24] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:42:24] [Server thread/INFO]: Using epoll channel type
+[01:42:24] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:42:24] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:42:24] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:42:24] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:42:24] [Server thread/INFO]: Preparing level "world"
+[01:42:25] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:42:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:42:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:42:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:42:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:42:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:42:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:42:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:42:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:42:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:42:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:42:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:42:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:42:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:42:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:42:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:42:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:42:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:42:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:42:34] [Server thread/INFO]: Time elapsed: 9026 ms
+[01:42:34] [Server thread/INFO]: Done (9.595s)! For help, type "help"
+[01:43:34] [Server thread/INFO]: Server empty for 60 seconds, pausing
